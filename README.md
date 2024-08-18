@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @jv-nd
-- 👀 I’m interested in data science & project management 
-- 🌱 I’m currently learning coding and programming
+- 👀 I’m interested in ... data science & project management 
+- 🌱 I’m currently learning ... coding and programming
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me ...
-- 😄 Pronouns: she/her
+- 😄 Pronouns: ...she/her
 - ⚡ Fun fact: ...
 
 <!---
